@@ -14,11 +14,4 @@ fn main() {
     //     Err(e) => println!("Unable to read stream {} ",e),
     // }
 
-    //use http crates
-    // let request = Request::builder()
-    //     .uri("127.0.0.1:8080")
-    //     .header("User-Agent", "awesome/1.0")
-    //     .body(())
-    //     .unwrap();
-
 }

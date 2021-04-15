@@ -62,7 +62,4 @@ fn main() {
         handle_read2(stream);
     }
 
-    // //use http crates
-    // let response  = Response::builder().status(StatusCode::MOVED_PERMANENTLY).header("Location","https://www.rust-lang.org/install.html")
-    //     .body(()).unwrap();
 }
